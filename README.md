@@ -17,6 +17,14 @@ pip install -r requirements.txt
 ```
 
 # 3. Edit Dotenv
+```
+MASTODON_HOST = "https://mastodon.social"
+MASTODON_TOKEN = ""
+DISCORD_CHANNEL_ID = ""
+OPENAI_API_KEY = ""
+OPENAI_PROMPT = ""
+DISCORD_BOT_TOKEN = ""
+```
 
 # 4. Run the Bot
 ```
